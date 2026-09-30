@@ -1,0 +1,9 @@
+# Dependencias do Node (caso venha a instalar pacotes no futuro)
+node_modules/
+
+# Configuracoes de IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

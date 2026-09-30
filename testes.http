@@ -1,0 +1,47 @@
+### Testar se o servidor esta no ar
+GET http://localhost:3001/
+
+### Soma
+POST http://localhost:3001/soma
+Content-Type: application/json
+
+{
+  "a": 7,
+  "b": 5
+}
+
+### Subtracao
+POST http://localhost:3001/subtracao
+Content-Type: application/json
+
+{
+  "a": 7,
+  "b": 5
+}
+
+### Multiplicacao
+POST http://localhost:3001/multiplicacao
+Content-Type: application/json
+
+{
+  "a": 7,
+  "b": 5
+}
+
+### Divisao
+POST http://localhost:3001/divisao
+Content-Type: application/json
+
+{
+  "a": 10,
+  "b": 2
+}
+
+### Divisao por zero (deve retornar erro)
+POST http://localhost:3001/divisao
+Content-Type: application/json
+
+{
+  "a": 10,
+  "b": 0
+}
