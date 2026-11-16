@@ -122,3 +122,12 @@ A rota `/soma` reaproveita a funcao `somar()` do arquivo `somatorio.js`,
 mostrando como a API pode usar as funcoes que ja existem no projeto. Foi
 usado o `express.json()` (embutido no Express) para ler o corpo das
 requisicoes, no lugar da biblioteca `body-parser`.
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/2914057c-3fe1-4dbd-a06d-660907f47775" />
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/648c7b61-ef9f-493a-a0cf-9804098cb387" />
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/c43fa5eb-25c4-4d5e-8d2c-4485fbc02c8c" />
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/1b2fc7fb-2121-4024-b9de-4c13f02c196a" />
+
+
+
+
